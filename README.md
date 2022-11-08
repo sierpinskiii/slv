@@ -1,2 +1,0 @@
-# slv
-Small Log Viewer
